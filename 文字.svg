@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="650"
+   viewBox="0 0 285.74999 171.97917"
+   version="1.1"
+   id="svg1109"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="文字.svg"
+   inkscape:export-filename="str_10.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1111"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72693603"
+     inkscape:cx="80.474757"
+     inkscape:cy="342.53358"
+     inkscape:window-width="1920"
+     inkscape:window-height="966"
+     inkscape:window-x="2117"
+     inkscape:window-y="428"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1106">
+    <rect
+       x="923.05234"
+       y="376.9245"
+       width="72.908754"
+       height="140.31496"
+       id="rect1593" />
+    <rect
+       x="466.3409"
+       y="220.1019"
+       width="191.21352"
+       height="167.8277"
+       id="rect1443" />
+    <rect
+       x="204.96989"
+       y="118.30477"
+       width="756.60028"
+       height="365.91941"
+       id="rect1299" />
+    <rect
+       x="122.43168"
+       y="165.07642"
+       width="789.61556"
+       height="354.91431"
+       id="rect1115" />
+    <rect
+       x="204.96989"
+       y="118.30477"
+       width="731.83881"
+       height="279.25428"
+       id="rect1451" />
+    <rect
+       x="204.96989"
+       y="118.30477"
+       width="731.83881"
+       height="279.25428"
+       id="rect1457" />
+    <rect
+       x="204.96989"
+       y="118.30477"
+       width="731.83881"
+       height="279.25428"
+       id="rect1463" />
+    <rect
+       x="204.96989"
+       y="118.30477"
+       width="731.83881"
+       height="279.25428"
+       id="rect1469" />
+    <rect
+       x="204.96989"
+       y="118.30477"
+       width="731.83881"
+       height="279.25428"
+       id="rect1475" />
+    <rect
+       x="204.96989"
+       y="118.30477"
+       width="731.83881"
+       height="279.25428"
+       id="rect1481" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1113"
+       style="font-size:192px;text-align:center;white-space:pre;shape-inside:url(#rect1115);display:inline;fill:#008000" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-19.290441,7.6433828)"
+       id="text1297"
+       style="font-size:85.3333px;text-align:center;white-space:pre;shape-inside:url(#rect1299);shape-padding:11.0051;display:inline;fill:#ff002e;stroke:#000000;stroke-opacity:1;fill-opacity:1"><tspan
+         x="583.26953"
+         y="207.1627"
+         id="tspan6997">
+</tspan><tspan
+         x="241.93634"
+         y="314.78267"
+         id="tspan6999">充電してください</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1441"
+       style="font-size:85.3333px;text-align:center;white-space:pre;shape-inside:url(#rect1443);display:inline;fill:#008000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1591"
+       style="font-size:85.3333px;text-align:center;white-space:pre;shape-inside:url(#rect1593);display:inline;fill:#008000" />
+  </g>
+</svg>
